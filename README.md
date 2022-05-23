@@ -1,5 +1,8 @@
 # Hi I'm Suthas, Welcome to my github profile 👋
 🔭 I’m currently working on 6Touch.com
+
+![Suthas Permpoolpanich](https://www.6touch.com/wp-content/uploads/2022/05/DSCF2966.jpg)
+
 ## 💖 Get in Touch
 👉[Personal Site](https://www.6touch.com/)<br>
 👉[Facebook](https://www.facebook.com/6touchfilmcamera)<br>
