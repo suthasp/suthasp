@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi I'm Suthas, Welcome to my github profile 👋
 🔭 I’m currently working on 6Touch.com
+## 💖 Get in Touch
+👉[Personal Site](https://www.6touch.com/)<br>
+👉[Facebook](https://www.facebook.com/6touchfilmcamera)<br>
+👉[Instagram](https://www.instagram.com/6touch/)<br>
 <!--
 **suthasp/suthasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
